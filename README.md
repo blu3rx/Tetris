@@ -1,4 +1,4 @@
-# Tetris
+## Tetris
  Cpp console app tetris game
  
  # -Keys-
