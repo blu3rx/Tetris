@@ -1,5 +1,5 @@
 # Tetris
  Cpp console app tetris game
  
- #-Keys-
+ # -Keys-
 "Arrows" to move "Z" to rotate.
